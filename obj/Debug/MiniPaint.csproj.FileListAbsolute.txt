@@ -20,3 +20,10 @@ C:\Users\Alex\Desktop\MiniPaint\obj\Debug\MiniPaint.csproj.GenerateResource.Cach
 C:\Users\Alex\Desktop\MiniPaint\obj\Debug\MiniPaint.csproj.CoreCompileInputs.cache
 D:\ProjectsVS\Unv_4sem\Proga\CourseWF\MiniPaint\obj\Debug\MiniPaint.exe
 D:\ProjectsVS\Unv_4sem\Proga\CourseWF\MiniPaint\obj\Debug\MiniPaint.pdb
+D:\ProjectsVS\Unv_4sem\Proga\CourseWF\MiniPaint\bin\Debug\MiniPaint.exe
+D:\ProjectsVS\Unv_4sem\Proga\CourseWF\MiniPaint\bin\Debug\MiniPaint.pdb
+D:\ProjectsVS\Unv_4sem\Proga\CourseWF\MiniPaint\obj\Debug\MiniPaint.csprojResolveAssemblyReference.cache
+D:\ProjectsVS\Unv_4sem\Proga\CourseWF\MiniPaint\obj\Debug\MiniPaint.About.resources
+D:\ProjectsVS\Unv_4sem\Proga\CourseWF\MiniPaint\obj\Debug\MiniPaint.Form1.resources
+D:\ProjectsVS\Unv_4sem\Proga\CourseWF\MiniPaint\obj\Debug\MiniPaint.Properties.Resources.resources
+D:\ProjectsVS\Unv_4sem\Proga\CourseWF\MiniPaint\obj\Debug\MiniPaint.csproj.GenerateResource.Cache
